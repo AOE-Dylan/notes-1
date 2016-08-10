@@ -1,0 +1,27 @@
+
+shell commands:
+	root: 
+		cd /
+	move down one directory:
+		cd ..
+	make director:
+		mkdir
+	make file:
+	     touch
+	list all files/sub-directories:
+		 ls
+
+gui:
+	 graphical user interface
+cli: 
+	command line interface
+
+tools: 
+		sublime text
+		github
+		git shell
+
+3 levels of knowing:
+		knowing and understanding
+		teaching and reinforcing
+		grocking - to understand intiuitively
